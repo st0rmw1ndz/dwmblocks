@@ -2,6 +2,8 @@
 
 Personal build of the asynchronous status feed generator for dwm
 
+You'll probably want the `bin` package from my [dotfiles](https://gitlab.com/frostalicious/dotfiles).
+
 ## Installation
 
 ```
